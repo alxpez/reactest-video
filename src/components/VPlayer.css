@@ -1,0 +1,18 @@
+.player-wrapper {
+  margin-top: 50px;
+}
+
+.fallback-poster__wrapper {
+  background-color: black;
+  background-image: url("http://www.whistlebox.com/includes/images/play.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 640px;
+  height: 360px;
+  margin: auto;
+}
+
+video {
+  width: 640px;
+  height: 360px;
+}
