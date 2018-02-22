@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header/>
-        <VPlayer video="https://dash.akamaized.net/dash264/TestCases/5a/1/manifest.mpd"></VPlayer>
+        <VPlayer video="https://s3.amazonaws.com/_bc_dml/example-content/sintel_dash/sintel_vod.mpd"></VPlayer>
       </div>
     );
   }
